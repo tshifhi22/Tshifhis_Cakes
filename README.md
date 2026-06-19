@@ -3,7 +3,8 @@ Web Development project
 
 ## Project title
 TshifhisCakes
-## Student Innformation
+## Student Information
+Student Name: Tshifhiwa Tshikalange 
 
 ## Website Goals and Objectives
 The goals of the website are to sell products, the business’s website is to sell products online [sitemap.docx](https://github.com/user-attachments/files/29117539/sitemap.docx)
